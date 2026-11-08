@@ -1,0 +1,5 @@
+*.log
+*.pid
+.htpasswd*
+.env
+__pycache__/
